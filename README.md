@@ -16,7 +16,7 @@ This project was made to practiceand improve my frontend web development skills.
 ## Live Website
 
 You can view the live website here:
-**[]
+**[https://explorebooks.netlify.app/]
 
 ## Features
 - A simple homepage with buttons to visit other sections
